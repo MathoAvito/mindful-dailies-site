@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Mindful Dailies
+description: Daily puzzle games for mindful entertainment
+show_downloads: false
+url: "https://mathoavito.github.io"
+baseurl: "/mindful-dailies-site"
+
+exclude:
+  - README.md
+  - LICENSE
+  - CHANGELOG.md
+  - .github
