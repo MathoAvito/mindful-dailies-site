@@ -19,7 +19,7 @@ Available on [Google Play Store](https://play.google.com/store/apps/details?id=c
 
 ## Support
 
-Having issues? Visit our [Support page](/mindful-dailies-site/support) or email us at support@mindful-dailies.com.
+Having issues? Visit our [Support page](/mindful-dailies-site/support) or email us at mindful.dailies@gmail.com.
 
 ---
 

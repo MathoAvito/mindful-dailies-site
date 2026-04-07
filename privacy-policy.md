@@ -21,7 +21,7 @@ By using the App, you agree to the collection and use of information in accordan
 ## Contact Information
 
 **App Developer:** Mindful Dailies Team  
-**Email:** privacy@mindful-dailies.com  
+**Email:** mindful.dailies@gmail.com  
 **Address:** [To be provided]
 
 If you have questions or concerns about this Privacy Policy, please contact us at the email address above.
@@ -141,14 +141,14 @@ You can access your personal information at any time by:
 
 - Viewing your profile in the Settings screen
 - Viewing your game history and statistics within the App
-- Contacting us at privacy@mindful-dailies.com to request a copy of your data
+- Contacting us at mindful.dailies@gmail.com to request a copy of your data
 
 ### 5.2 Data Deletion
 
 You have the right to delete your account and all associated data:
 
 - **In-App Deletion:** Go to Settings > Account > Delete Account
-- **Email Request:** Contact privacy@mindful-dailies.com with your email address
+- **Email Request:** Contact mindful.dailies@gmail.com with your email address
 - **Deletion Timeline:** Account data will be permanently deleted within 30 days of your request
 
 Once deleted, the following data is removed:
@@ -171,14 +171,14 @@ You can control notifications at any time:
 
 If you wish to export your data to another service:
 
-- Contact privacy@mindful-dailies.com with a data export request
+- Contact mindful.dailies@gmail.com with a data export request
 - We will provide your data in JSON format within 14 days
 
 ## 6. Children's Privacy
 
 The App is **not intended for users under 13 years of age** (or 16 in the EU). We do not knowingly collect personal information from children.
 
-If we discover that we have collected data from a child without parental consent, we will delete that information immediately. If you believe a child has provided us with personal information, please contact us at privacy@mindful-dailies.com.
+If we discover that we have collected data from a child without parental consent, we will delete that information immediately. If you believe a child has provided us with personal information, please contact us at mindful.dailies@gmail.com.
 
 ## 7. International Data Transfers
 
@@ -206,7 +206,7 @@ If you are located in the EU, you have additional rights under the General Data 
 - **Legitimate Interests:** To improve the App and ensure security
 - **Consent:** For optional features like notifications
 
-**Data Protection Officer:** privacy@mindful-dailies.com
+**Data Protection Officer:** mindful.dailies@gmail.com
 
 ### 8.2 CCPA (California, USA)
 
@@ -217,7 +217,7 @@ If you are a California resident, you have rights under the California Consumer 
 - **Right to Opt-Out:** We do not sell your personal information, so no opt-out is necessary
 - **Right to Non-Discrimination:** You will not receive discriminatory treatment for exercising your rights
 
-To exercise your rights, contact privacy@mindful-dailies.com.
+To exercise your rights, contact mindful.dailies@gmail.com.
 
 ## 9. Changes to This Privacy Policy
 
@@ -271,7 +271,7 @@ If you do not agree, please do not use the App.
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-**Email:** privacy@mindful-dailies.com  
+**Email:** mindful.dailies@gmail.com  
 **Response Time:** We will respond within 14 business days
 
 ---

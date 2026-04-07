@@ -19,7 +19,7 @@ By downloading, installing, or using the App, you agree to be bound by these Ter
 ## Contact Information
 
 **App Developer:** Mindful Dailies Team  
-**Email:** support@mindful-dailies.com  
+**Email:** mindful.dailies@gmail.com  
 **Address:** [To be provided]
 
 For questions or concerns about these Terms, contact us at the email address above.
@@ -269,7 +269,7 @@ You agree to **indemnify and hold harmless** Mindful Dailies, its developers, an
 You may stop using the App and delete your account at any time:
 
 - Settings > Account > Delete Account
-- Email support@mindful-dailies.com to request deletion
+- Email mindful.dailies@gmail.com to request deletion
 
 ### 12.2 Termination by Us
 
@@ -296,7 +296,7 @@ These Terms are governed by the laws of **[State/Country - to be specified]**, w
 
 ### 13.2 Informal Resolution
 
-Before filing a legal claim, you agree to contact us at support@mindful-dailies.com to attempt to resolve the dispute informally. We will respond within 14 business days.
+Before filing a legal claim, you agree to contact us at mindful.dailies@gmail.com to attempt to resolve the dispute informally. We will respond within 14 business days.
 
 ### 13.3 Arbitration Agreement (US Users)
 
@@ -307,7 +307,7 @@ Before filing a legal claim, you agree to contact us at support@mindful-dailies.
 - Arbitration will be on an **individual basis** — no class actions
 - Either party may seek injunctive relief in court for intellectual property violations
 
-**Opt-Out:** You may opt out of arbitration by emailing support@mindful-dailies.com within 30 days of accepting these Terms.
+**Opt-Out:** You may opt out of arbitration by emailing mindful.dailies@gmail.com within 30 days of accepting these Terms.
 
 ### 13.4 Jurisdiction (Non-US Users)
 
@@ -368,7 +368,7 @@ Our failure to enforce any provision of these Terms does not constitute a waiver
 
 For questions, support, or feedback:
 
-**Email:** support@mindful-dailies.com  
+**Email:** mindful.dailies@gmail.com  
 **Response Time:** 14 business days
 
 ### 20.2 Feedback License
@@ -381,7 +381,7 @@ If you provide feedback, suggestions, or ideas about the App ("Feedback"):
 
 ## 21. Accessibility
 
-We strive to make the App accessible to users with disabilities. If you encounter accessibility barriers, please contact us at support@mindful-dailies.com.
+We strive to make the App accessible to users with disabilities. If you encounter accessibility barriers, please contact us at mindful.dailies@gmail.com.
 
 ## 22. Special Terms for Minors
 
@@ -397,7 +397,7 @@ Parents or guardians of minors may request:
 - Access to the minor's account data
 - Deletion of the minor's account
 
-Contact support@mindful-dailies.com for assistance.
+Contact mindful.dailies@gmail.com for assistance.
 
 ## 23. Updates and Maintenance
 
@@ -423,7 +423,7 @@ These Terms are written in English. If translated, the English version prevails 
 - The App is free (no ads, no purchases)
 - We may terminate accounts for violations
 - Disputes resolved through arbitration (US users) or courts (non-US users)
-- Contact support@mindful-dailies.com for help
+- Contact mindful.dailies@gmail.com for help
 
 ---
 

@@ -10,7 +10,7 @@ permalink: /support
 
 For any questions, issues, or feedback about Mindful Dailies, please contact us:
 
-- **Email:** support@mindful-dailies.com
+- **Email:** mindful.dailies@gmail.com
 
 ## Frequently Asked Questions
 
@@ -24,7 +24,7 @@ All puzzles reset at midnight UTC daily.
 
 ### I found a bug. How do I report it?
 
-Email us at support@mindful-dailies.com with a description of the issue, your device model, and Android version.
+Email us at mindful.dailies@gmail.com with a description of the issue, your device model, and Android version.
 
 ### How do I manage notifications?
 
