@@ -22,7 +22,7 @@ By using the App, you agree to the collection and use of information in accordan
 
 **App Developer:** Mindful Dailies Team  
 **Email:** mindful.dailies@gmail.com  
-**Address:** [To be provided]
+**Address:** Not publicly listed
 
 If you have questions or concerns about this Privacy Policy, please contact us at the email address above.
 
@@ -118,7 +118,7 @@ We may disclose your information if required by law, such as:
 
 Your data is stored in the following locations:
 
-- **Cloud Storage:** AWS servers located in [region - to be specified]
+- **Cloud Storage:** AWS servers located in us-east-1
 - **Local Device Storage:** Game progress and preferences are cached on your device using MMKV encrypted storage
 - **Duration:** Data is retained as long as your account is active, plus 30 days after account deletion (for backup purposes)
 

@@ -20,7 +20,7 @@ By downloading, installing, or using the App, you agree to be bound by these Ter
 
 **App Developer:** Mindful Dailies Team  
 **Email:** mindful.dailies@gmail.com  
-**Address:** [To be provided]
+**Address:** Not publicly listed
 
 For questions or concerns about these Terms, contact us at the email address above.
 
@@ -215,7 +215,7 @@ You can disable non-essential notifications at:
 
 Your privacy is important to us. Our collection and use of your personal information is governed by our **Privacy Policy**, available at:
 
-[Privacy Policy Link]
+https://mathoavito.github.io/mindful-dailies-site/privacy-policy
 
 By using the App, you also agree to the Privacy Policy. Key points:
 
@@ -292,7 +292,7 @@ Upon termination:
 
 ### 13.1 Governing Law
 
-These Terms are governed by the laws of **[State/Country - to be specified]**, without regard to conflict of law principles.
+These Terms are governed by the laws of the United States, without regard to conflict of law principles.
 
 ### 13.2 Informal Resolution
 
@@ -311,7 +311,7 @@ Before filing a legal claim, you agree to contact us at mindful.dailies@gmail.co
 
 ### 13.4 Jurisdiction (Non-US Users)
 
-For users outside the United States, disputes will be resolved in the courts of **[Jurisdiction - to be specified]**.
+For users outside the United States, disputes will be resolved in courts of competent jurisdiction.
 
 ## 14. Third-Party Services
 
